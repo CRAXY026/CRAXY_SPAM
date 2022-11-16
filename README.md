@@ -1,6 +1,6 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 # 「[CraxySpam👮](https://t.me/CRAXYMARRK)」
-Mᴀɴᴀɢᴇᴅ Bʏ: [Ｓ Δ Ｈ Ｉ Ｌ ♠] (https://t.me/craxy_boi)
+Mᴀɴᴀɢᴇᴅ Bʏ: [Ｓ Δ Ｈ Ｉ Ｌ ♠](https://t.me/craxy_boi)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
@@ -18,10 +18,6 @@ Mᴀɴᴀɢᴇᴅ Bʏ: [Ｓ Δ Ｈ Ｉ Ｌ ♠] (https://t.me/craxy_boi)
 
 
 #### [THIS ALSO FOR HEROKU](https://heroku.com/deploy?template=https://github.com/CRAXY026/CRAXY_SPAM) 
-
-# Tutorial 
-
-[![CraxySPAMBOT TUTORIAL](https://img.shields.io/badge/Watch%20Now-blue)](http://youtu.be/iAG3csVQo_g)
 
 ## What Is CraxySpamBot
 
